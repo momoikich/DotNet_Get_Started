@@ -1,0 +1,14 @@
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\bin\Debug\net8.0\MaPremiereApplication.exe
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\bin\Debug\net8.0\MaPremiereApplication.deps.json
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\bin\Debug\net8.0\MaPremiereApplication.runtimeconfig.json
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\bin\Debug\net8.0\MaPremiereApplication.dll
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\bin\Debug\net8.0\MaPremiereApplication.pdb
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\obj\Debug\net8.0\MaPremiereApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\obj\Debug\net8.0\MaPremiereApplication.AssemblyInfoInputs.cache
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\obj\Debug\net8.0\MaPremiereApplication.AssemblyInfo.cs
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\obj\Debug\net8.0\MaPremiereApplication.csproj.CoreCompileInputs.cache
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\obj\Debug\net8.0\MaPremiereApplication.dll
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\obj\Debug\net8.0\refint\MaPremiereApplication.dll
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\obj\Debug\net8.0\MaPremiereApplication.pdb
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\obj\Debug\net8.0\MaPremiereApplication.genruntimeconfig.cache
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\MaPremiereApplication\obj\Debug\net8.0\ref\MaPremiereApplication.dll

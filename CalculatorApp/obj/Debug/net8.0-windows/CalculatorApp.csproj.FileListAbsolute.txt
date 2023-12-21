@@ -1,0 +1,14 @@
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.exe
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.deps.json
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.runtimeconfig.json
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfo.cs
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\obj\Debug\net8.0-windows\refint\CalculatorApp.dll
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\Users\hammi\OneDrive\Documents\GitHub\DotNet_Get_Started\CalculatorApp\obj\Debug\net8.0-windows\ref\CalculatorApp.dll
